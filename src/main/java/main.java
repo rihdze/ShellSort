@@ -8,7 +8,7 @@ public class main {
         //Enter the size of the array here in ther brackets [], same number should go in the while(i < ) loop
         int arr[] = new int[200000];
 
-
+        //For populating the array with random numbers.
         int i = 0;
         while(i < 200000){
             /////////////////////////////// MAXIMUM     MINIMUM      MINIMUM
